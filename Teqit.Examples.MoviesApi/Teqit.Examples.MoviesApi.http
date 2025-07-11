@@ -1,0 +1,7 @@
+@Teqit.Examples.MoviesApi_HostAddress = https://localhost:8081
+
+GET {{Teqit.Examples.MoviesApi_HostAddress}}/movies/
+Accept: application/json
+Authorization: Bearer ey
+
+###
